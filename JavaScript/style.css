@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+}
+
+div{
+    background-color: cyan;
+    margin: 10px;
+    height: 100px;
+    width:100px
+}
+
+div:hover{
+    background-color: blue;
+}
+
+#div1{
+    background-color: blueviolet;
+}
